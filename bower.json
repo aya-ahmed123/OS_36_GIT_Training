@@ -4,6 +4,6 @@
     "homepage": "",
     "license": "MIT",
     "dependencies": {
-        "bootstrap": "~3.x",
+        "bootstrap": "~3.x"
             }
 }
