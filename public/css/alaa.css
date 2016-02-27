@@ -1,0 +1,95 @@
+body {
+	
+	background-color: #35A998;
+}
+div#header
+{
+margin-top: 0px;	
+padding: 0px;
+	background-color: #35A998; 
+}
+div#header h1 
+{
+	text-align: center;
+	color: #FFF;
+}
+div#wrapper
+{
+	background-color: #C8EFDE;
+	width: 800px;
+	height: 600px;
+	margin: 20px auto;
+	padding: 20px 15px 10px 15px;
+	border: 1px solid #CCC;
+}
+div#footer
+{
+	padding: center;
+margin-top: 120px;
+background-color: #35A998;
+}
+div#footer p
+{
+	text-align: center;
+}
+div#footer p a {
+	text-decoration: none;
+	color: #eee;
+}
+div#login
+{
+	width: 400px;
+	height: 150px;
+	margin: 190px auto;
+	background-color: #35A998;
+	border-radius: 5px;
+}
+div#login  a {
+	text-decoration: none;
+	color: #eee;
+	;
+}
+div#login h1 
+{color: #FFF;
+text-align: center;
+}
+div#save
+{
+	width: 400px;
+	height: 250px;
+	margin: 190px auto;
+	background-color: #35A998;
+	border-radius: 5px;
+}
+div#menue
+{border: 1px #35A998;}
+div#menue ul
+{
+	list-style: none;
+	margin: 10px;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #35A998;
+	
+}
+div#menue ul li{ float: left;}
+div#menue ul li a
+{
+	display: block;
+	text-decoration: none;
+	width: 170px;
+	padding: 0px;
+	text-transform: capitalize;
+	color: #FFF;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 13px;
+	text-align: center;
+	border-right: 1px solid #f4f4f4;
+}
+div#menue ul li a.last-item {
+	border-right: none;
+}
+div#menue ul li a:hover {
+	background-color: #999;
+}
